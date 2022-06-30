@@ -41,7 +41,7 @@ The data was then further collected by city type to produce a summary table in o
 A bubble chart was produced in order to show a visual representation of the relationship between the average fare and the total number of rides per city type: 
 
 
-<img src="Resources/ride_share_bubble.png" width="600">
+<img src="Resources/ride_share_bubble.png" width="700">
 
 
 The PyBer dataframe was resampled by date in order to produce a line chart of the total fare by city type by date.  From this chart, a visual representation of the month by month total fares for each city type where the peaks and dips represent different weeks.
